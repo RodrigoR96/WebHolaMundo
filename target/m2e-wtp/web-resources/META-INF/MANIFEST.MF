@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: WebHolaMundo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rodrigo
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/WebHolaMundo
+Created-By: Maven Integration for Eclipse
+
